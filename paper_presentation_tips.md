@@ -1,0 +1,7 @@
+**Paper Summary Requirements** (Due 2 weeks after this Writing lecture)
+- Section-by-section summary (3 points)
+- Summary of the review process of the paper (1 point)
+- Clear contribution statement and what results prove the contribution (1 point)
+- Author background research (who they are, from where, number of citations and main domain of research of each author) (1 point)
+- Analysis of papers that have cited the summary paper with focus on why they cited this paper (min. 3 papers, 2 points)
+- Overall quality assessment (2 points)
