@@ -74,17 +74,29 @@ The projects are described in detail in the [project description document](proje
 
 ### Week 4 (20.03): Paper presentation
 
-Starting from this week, everyone will present a paper related to the project topic they have chosen. The presentation should be around 20 minutes long and should cover the main points of the paper, the methodology used, and the results obtained. The presentation should be followed by a discussion where other students can ask questions and share their thoughts on the paper (5 min). The presentation should follow this [rules](paper_presentation_rules.md). The first presentation I will do myself to show you how it should look like. The spreadsheet with dataset and later papers will be shared in the Slack channel.
+Starting from this week, everyone will present a paper related to the project topic they have chosen. The presentation should be around 20 minutes long and should cover the main points of the paper, the methodology used, and the results obtained. The presentation should be followed by a discussion where other students can ask questions and share their thoughts on the paper (5 min). The presentation should follow this [rules](paper_presentation_rules.md). The first presentation I will do myself to show you how it should look like. The spreadsheet with dataset and later papers will be shared in the Slack channel. The presentation made by Michał is available in the [google docs](https://docs.google.com/presentation/d/1TajNgkZKzK6jlsU6ftKK16foebUpWo8LOSVkfnGN6-I/edit?usp=sharing).
 
 ### Week 5 (27.03): First project milestone
 
+Staring from 8:20 each group have 20 minutes to present their project progress.
+
 ### Week 6-8: Project work, paper presentation, and consultations
+
+Each week two people will present a paper related to their project topic.
+Max 20 minutes presentation + 5 minutes discussion. The deadline for the paper presentation announcement is the week before the presentation. You can send me the paper via Slack. Classes starts at 8:50.
 
 ### Week 9 (03.05): Second project milestone
 
+Staring from 8:20 each group have 20 minutes to present their project progress.
+
 ### Week 10-12: Project work, paper presentation, and consultations
 
+Each week two people will present a paper related to their project topic.
+Max 20 minutes presentation + 5 minutes discussion. The deadline for the paper presentation announcement is the week before the presentation. You can send me the paper via Slack. Classes starts at 8:50.
+
 ### Week 13 (29.05): Final project milestone
+
+Staring from 8:20 each group have 20 minutes to present their project progress.
 
 ### Week 14 (03.06): Final project presentation
 
