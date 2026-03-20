@@ -85,7 +85,7 @@ Staring from 8:20 each group have 20 minutes to present their project progress.
 Each week two people will present a paper related to their project topic.
 Max 20 minutes presentation + 5 minutes discussion. The deadline for the paper presentation announcement is the week before the presentation. You can send me the paper via Slack. Classes starts at 8:50.
 
-### Week 9 (03.05): Second project milestone
+### Week 9 (27.04): Second project milestone
 
 Staring from 8:20 each group have 20 minutes to present their project progress.
 
